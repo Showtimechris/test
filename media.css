@@ -1,0 +1,36 @@
+@media only screen and (max-width: 375px) {
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    section.hero {
+        margin-top: 10%;
+        height: 100vh;
+    }
+    .hero-img{
+        max-width: 100%;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 40px;
+    }
+    p {
+        text-align: center;
+        font-size: 15px;
+    }
+    h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+    btn {
+     justify-content: center;
+    }
+
+
+
+
+
+
+}
